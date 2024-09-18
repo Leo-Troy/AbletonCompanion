@@ -1,0 +1,30 @@
+
+
+Conception:
+    ☐ Rename Project
+    ☐ Rename LiveSet
+    ☐ Delete Project
+    ☐ Delete LiveSet
+
+Arborescense:
+    ☐ Show only project of project_path / show all
+
+Collect:
+    ☐ Collect and save to path
+
+Render:
+    ☐ Render async auto
+
+AutoAudio:
+    ☐ AutoAudio
+
+Versionning:
+    ☐ Store Versions 
+
+Task:
+    ☐ Add task
+
+Automate:
+    ☐ Tag
+    ☐ Project State
+    ☐ Order Project State

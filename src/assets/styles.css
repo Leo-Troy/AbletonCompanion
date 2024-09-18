@@ -1,0 +1,14 @@
+:root {
+    --main-text-color: #DDDDDD;
+    --secondary-text-color: #888888;
+    /* --background-color: #000FF; */
+    --background-color: #7951A8;
+    --dark-color: #333333;
+    --yellow: #fcc25a;
+    --purple: #b46088;
+    --normal-font-size: 14px;
+    --big-font-size: 16px;
+    --small-font-size: 11px;
+    --very-small-font-size: 9px;
+    --font-family: 'Roboto', sans-serif
+}

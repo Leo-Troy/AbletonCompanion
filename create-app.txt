@@ -1,0 +1,15 @@
+vue create name
+vue add electron-builder
+npm i @electron/remote
+
+background.js -> webPreferences: enableRemoteModule true7
+
+vue.config.js
+module.exports = {
+    pluginOptions: {
+        electronBuilder: {
+            nodeIntegration: true
+        }
+    }
+}
+npm install ts-loader@~8.2.0
