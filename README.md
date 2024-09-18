@@ -1,5 +1,12 @@
 # Ableton Companion
 
+![Alt Text](.src/assets/screenshots/ableton-project-manager-v0-53izk3qzzxvb1.jpg)
+![Alt Text](.src/assets/screenshots/ableton-project-manager-v0-721rt4qzzxvb1.jpg)
+![Alt Text](.src/assets/screenshots/ableton-project-manager-v0-bnpy55qzzxvb1.jpg)
+![Alt Text](.src/assets/screenshots/ableton-project-manager-v0-kyvd36qzzxvb1.jpg)
+![Alt Text](.src/assets/screenshots/ableton-project-manager-v0-vh8iyspzzxvb1.jpg)
+
+
 **Ableton Companion** is a utility application built using Electron, Vue 3, and TypeScript, designed to simplify the management of Ableton Live project files.
 
 With this app, you can easily browse and organize your projects, open them directly from the application, and access project information that is not typically available in Ableton. It also includes powerful filtering and sorting options to help you find important projects quickly, as well as features to group projects into albums for better organization.
